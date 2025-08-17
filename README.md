@@ -11,3 +11,6 @@
 ## Concurrency
 - [Concurrency is not Parallelism](https://www.youtube.com/watch?v=oV9rvDllKEg), [Rob Pike](https://en.wikipedia.org/wiki/Rob_Pike), co-designer of the Go programming language
 - [Concurrency is not Parallelism: Slides](https://go.dev/talks/2012/waza.slide)
+
+## [SIMD](https://en.wikipedia.org/wiki/Single_instruction%2C_multiple_data) for Code Optimization
+- [Optimizing software in C++: An optimization guide for Windows, Linux and Mac platforms](https://agner.org/optimize/optimizing_cpp.pdf), Prof. Agner Fog, Technical University of Denmark<br>
