@@ -14,3 +14,6 @@
 
 ## [SIMD](https://en.wikipedia.org/wiki/Single_instruction%2C_multiple_data) for Code Optimization
 - [Optimizing software in C++: An optimization guide for Windows, Linux and Mac platforms](https://agner.org/optimize/optimizing_cpp.pdf), Prof. Agner Fog, Technical University of Denmark<br>
+
+## Linux Kernel
+- [The Path of a Packet Through the Linux Kernel](https://www.net.in.tum.de/fileadmin/TUM/NET/NET-2024-04-1/NET-2024-04-1_16.pdf)
