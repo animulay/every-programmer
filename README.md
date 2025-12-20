@@ -8,6 +8,10 @@
 ## Memory
 - [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) Ulrich Drepper, Nov 21, 2007
 
+## Performance
+![Latency Numbers Everyone Should Know](images/Latency-numbers-everyone-should-know.png)
+- [Performance Hints](https://abseil.io/fast/hints.html#performance-hints), Jeff Dean, Sanjay Ghemawat, Dec 16, 2025
+
 ## Concurrency
 - [Concurrency is not Parallelism](https://www.youtube.com/watch?v=oV9rvDllKEg), [Rob Pike](https://en.wikipedia.org/wiki/Rob_Pike), co-designer of the Go programming language
 - [Concurrency is not Parallelism: Slides](https://go.dev/talks/2012/waza.slide)
