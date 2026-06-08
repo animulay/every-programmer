@@ -12,8 +12,11 @@
 - [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
 
 ## Performance
-![Latency Numbers Everyone Should Know](images/Latency-numbers-everyone-should-know.png)
+- Latency Numbers Everyone Should Know - Jeff Dean<br><br>
+  ![Latency Numbers Everyone Should Know](images/Latency-numbers-everyone-should-know.png)
 - [Performance Hints](https://abseil.io/fast/hints.html#performance-hints), Jeff Dean, Sanjay Ghemawat, Dec 16, 2025
+- Brendan Gregg's Linux Performance Observability Tools<br><br>
+  ![Linux Performance Observability Tools](https://www.brendangregg.com/Perf/linux_observability_tools.png)
 
 ## Concurrency
 - [Concurrency is not Parallelism](https://www.youtube.com/watch?v=oV9rvDllKEg), [Rob Pike](https://en.wikipedia.org/wiki/Rob_Pike), co-designer of the Go programming language
